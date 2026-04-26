@@ -41,7 +41,10 @@ I am currently building projects that go end-to-end. Not just notebooks. Not jus
 > *Real data. Real questions. Real answers.*
 
 Built on the Our World in Data energy dataset covering 23,000+ rows across 200+ countries. Designed a MySQL star schema from scratch, wrote a two-script Python pipeline that loads and transforms the data automatically, ran 15 analytical SQL queries, and built a Jupyter notebook with 10 visualizations exploring which countries are actually leading the energy transition and which ones are just talking about it.
-![Energy](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="480" alt="Energy" />
+</p>
 
 The most interesting finding was that wealth does not strongly predict renewable adoption. Geography and domestic policy matter more. Saudi Arabia, one of the wealthiest nations in the dataset, sits at zero percent renewable share.
 
@@ -57,7 +60,9 @@ The data does not lie. It just waits for someone to ask the right question.
 
 Lana Del Rey. The Weeknd. Arijit Singh at 2 AM. SPB and Hariharan when the soul needs something older and deeper. Shreya Ghoshal because some voices just cut through everything. The Script for the days that feel like uphill. Ed Sheeran because everyone has at least one Ed Sheeran song they cannot skip.
 
-![Gym](https://i.pinimg.com/1200x/6d/fa/e9/6dfae9cf7375745d7a1466dec02900e1.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/6d/fa/e9/6dfae9cf7375745d7a1466dec02900e1.jpg" width="480" alt="Playlist" />
+</p>
 
 The playlist says a lot about a person. Mine says I feel things across languages, across decades, and across moods that do not always have names.
 
@@ -71,7 +76,9 @@ One Direction is also in there. We do not need to discuss that further.
 
 I lift weights. Not as a hobby. More as a non-negotiable. There is something about moving heavy things that clears the head in a way that nothing else does. The gym is the one place where the feedback is immediate and honest. You either lifted it or you did not. No ambiguity. No mixed signals. Just you and the bar.
 
-![Gym](https://images.unsplash.com/photo-1625151936268-e1ffba534f20?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1625151936268-e1ffba534f20?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="480" alt="Gym" />
+</p>
 
 I also sing. Not on stages, not for crowds. Just certain songs, in certain moments, when the scale feels right and the room is quiet enough. The kind of singing that is more about feeling something than performing it.
 
@@ -89,7 +96,9 @@ I am not the finished product. I am somewhere in the middle of building somethin
 
 What I do know is that I show up. I figure things out. I do not stop at the first error message. Anyone who has spent three hours debugging a database connection because their password had a special character in it knows exactly the kind of patience I am talking about.
 
-![Late night](https://i.pinimg.com/1200x/39/f6/a6/39f6a62c7a56e08ceefa91a4b1970492.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/39/f6/a6/39f6a62c7a56e08ceefa91a4b1970492.jpg" width="480" alt="Late night" />
+</p>
 
 The work teaches you things that nothing else does. Humility, mostly. And the ability to sit with something that is not working yet and trust that it will.
 
