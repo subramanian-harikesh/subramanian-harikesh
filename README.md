@@ -15,12 +15,12 @@ That is roughly how I ended up in data analytics. Not a plan. More of a feeling 
 
 ## Who Am I
 
-Final-year engineering student. Aspiring data analyst. Someone who takes the craft seriously without taking himself too seriously.
-
+ECE Graduate, IIIT Kalyani, June 2026. Aspiring data analyst. Someone who takes the craft seriously without taking himself too seriously.
+ 
 I did not plan to fall into data. It just made more sense than most things I tried. There is a certain satisfaction in asking a question, building something to answer it, and actually getting an answer. Not many things in life work that cleanly.
-
+ 
 Some things do not work out at all. But we move on. We always do.
-
+ 
 I am currently building projects that go end-to-end. Not just notebooks. Not just dashboards. The whole thing, from raw data sitting in a CSV to a database, to a pipeline, to analysis, to something that actually means something.
 
 ---
@@ -58,7 +58,7 @@ The data does not lie. It just waits for someone to ask the right question.
 
 > *Arctic Monkeys when the SQL is not working. One Republic when it finally does.*
 
-Lana Del Rey. The Weeknd. Arijit Singh at 2 AM. SPB and Hariharan when the soul needs something older and deeper. Shreya Ghoshal because some voices just cut through everything. The Script for the days that feel like uphill. Ed Sheeran because everyone has at least one Ed Sheeran song they cannot skip.
+Lana Del Rey. The Weeknd. Arijit Singh at 2 AM. SPB and Hariharan when the soul needs something older and deeper. Unnikrishnan because some voices just cut through everything. The Script for the days that feel like uphill. Ed Sheeran because everyone has at least one Ed Sheeran song they cannot skip.
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/6d/fa/e9/6dfae9cf7375745d7a1466dec02900e1.jpg" width="480" alt="Playlist" />
@@ -106,10 +106,10 @@ The work teaches you things that nothing else does. Humility, mostly. And the ab
 
 ## Currently
 
-- Finishing my final year of BTech
+- ECE Graduate, IIIT Kalyani, June 2026
 - Building a data analytics portfolio targeted at real industry problems
 - Looking for Data Analyst roles, particularly in energy, infrastructure, and industrial sectors
-- Trying to deadlift more than I did last month
+- Trying to push more reps than I did last month
 - Listening to something that probably says too much about my current state of mind
 
 ---
